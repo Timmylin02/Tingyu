@@ -8,6 +8,7 @@
 
 ## 作業連結區
 [HW1](https://github.com/Timmylin02/Tingyu/blob/main/HW1.ipynb)
+[HW2](https://github.com/Timmylin02/Tingyu/blob/main/HW2.ipynb)
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/
