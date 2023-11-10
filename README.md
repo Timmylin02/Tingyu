@@ -13,7 +13,7 @@
 
 [HW3](https://github.com/Timmylin02/Tingyu/blob/main/HW3.ipynb)
 
-[HW4]()
+[HW4](https://github.com/Timmylin02/Tingyu/blob/main/HW4.ipynb)
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/
